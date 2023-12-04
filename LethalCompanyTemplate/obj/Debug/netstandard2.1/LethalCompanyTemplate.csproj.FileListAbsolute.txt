@@ -1,0 +1,12 @@
+C:\Users\cs059\Documents\Projects\doppleganger_mod\LethalCompanyTemplate\LethalCompanyTemplate\bin\Debug\netstandard2.1\DoppleGangerMod.deps.json
+C:\Users\cs059\Documents\Projects\doppleganger_mod\LethalCompanyTemplate\LethalCompanyTemplate\bin\Debug\netstandard2.1\DoppleGangerMod.dll
+C:\Users\cs059\Documents\Projects\doppleganger_mod\LethalCompanyTemplate\LethalCompanyTemplate\bin\Debug\netstandard2.1\DoppleGangerMod.pdb
+C:\Users\cs059\Documents\Projects\doppleganger_mod\LethalCompanyTemplate\LethalCompanyTemplate\obj\Debug\netstandard2.1\LethalCompanyTemplate.csproj.AssemblyReference.cache
+C:\Users\cs059\Documents\Projects\doppleganger_mod\LethalCompanyTemplate\LethalCompanyTemplate\obj\Debug\netstandard2.1\PluginInfo.cs
+C:\Users\cs059\Documents\Projects\doppleganger_mod\LethalCompanyTemplate\LethalCompanyTemplate\obj\Debug\netstandard2.1\LethalCompanyTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cs059\Documents\Projects\doppleganger_mod\LethalCompanyTemplate\LethalCompanyTemplate\obj\Debug\netstandard2.1\LethalCompanyTemplate.AssemblyInfoInputs.cache
+C:\Users\cs059\Documents\Projects\doppleganger_mod\LethalCompanyTemplate\LethalCompanyTemplate\obj\Debug\netstandard2.1\LethalCompanyTemplate.AssemblyInfo.cs
+C:\Users\cs059\Documents\Projects\doppleganger_mod\LethalCompanyTemplate\LethalCompanyTemplate\obj\Debug\netstandard2.1\LethalCompanyTemplate.csproj.CoreCompileInputs.cache
+C:\Users\cs059\Documents\Projects\doppleganger_mod\LethalCompanyTemplate\LethalCompanyTemplate\obj\Debug\netstandard2.1\LethalCompanyTemplate.sourcelink.json
+C:\Users\cs059\Documents\Projects\doppleganger_mod\LethalCompanyTemplate\LethalCompanyTemplate\obj\Debug\netstandard2.1\DoppleGangerMod.dll
+C:\Users\cs059\Documents\Projects\doppleganger_mod\LethalCompanyTemplate\LethalCompanyTemplate\obj\Debug\netstandard2.1\DoppleGangerMod.pdb
